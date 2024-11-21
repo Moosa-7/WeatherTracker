@@ -1,1 +1,2 @@
 # WeatherTracker
+Author: Team A
